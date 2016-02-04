@@ -1,6 +1,6 @@
 # Gobierno Abierto en Venezuela: una deuda urgente
 
-En su sentido más básico, gobierno abierto es la noción de que el pueblo tiene la potestad de vigilar y escrutinizar el accionar de los órganos de la Administración Pública a través del acceso a sus documentos y procedimientos. Este principio, considerado esencial para el correcto funcionamiento de la democracia, es comúnmente aceptado y protegido por las constituciones de casi todos los países democráticos del mundo.
+En su sentido más básico, gobierno abierto es la noción de que el pueblo tiene la potestad de vigilar y realizar scrutinio o contraloria socian sobre el accionar de los órganos de la Administración Pública a través del acceso a sus documentos y procedimientos. Este principio, considerado esencial para el correcto funcionamiento de la democracia, es comúnmente aceptado y protegido por las constituciones de casi todos los países democráticos del mundo.
 
 Sin embargo, gracias a los alcances del movimiento de software libre, el concepto de gobierno abierto ha evolucionado a través de los años, asimilando nociones filosóficas tomadas del movimiento de software libre: así como el software libre permite a sus usuarios recibirlo, cambiarlo, adaptarlo y mejorarlo, el gobierno abierto permite a los ciudadanos no sólo tener acceso a la información, documentos y procedimientos del gobierno, sino participar de manera significativa en su construcción, innovación y mejora. 
 
