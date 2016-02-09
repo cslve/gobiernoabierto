@@ -1,4 +1,4 @@
-# Gobierno Abierto en Venezuela: una deuda urgente
+# Gobierno Abierto en Venezuela: una tarea urgente
 
 En su sentido clásico, la implementación del gobierno abierto busca facilitar las herramientas de 
 tecnologías duras y blandas a fin de facilitar el seguimiento, escrutinio y valoración de la 
