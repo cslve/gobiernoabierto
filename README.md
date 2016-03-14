@@ -1,3 +1,7 @@
+**NOTA**
+
+Este documento decidió no usarse según el resultado de la reunión de consenso realizada en Febrero. En caso de cambio de opinión, hay algunos PR que modifican substancialmente el documento que deberían revisar, como [#4](https://github.com/cslve/gobiernoabierto/pull/4).
+
 # Gobierno Abierto en Venezuela: una deuda urgente
 
 En su sentido más básico, gobierno abierto es la noción de que el pueblo tiene
