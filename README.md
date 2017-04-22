@@ -8,8 +8,7 @@ En su sentido más básico, gobierno abierto es la noción de que el pueblo tien
 la potestad de vigilar y escrutinizar el accionar de los órganos de la
 Administración Pública a través del acceso a sus documentos y procedimientos.
 Este principio, considerado esencial para el correcto funcionamiento de la
-democracia, es comúnmente aceptado y protegido por las constituciones de casi
-todos los países democráticos del mundo.
+democracia, es comúnmente aceptado y protegido por las constituciones de la mayor parte de los países democráticos del mundo.
 
 Sin embargo, gracias a los alcances del movimiento de software libre, el
 concepto de gobierno abierto ha evolucionado a través de los años, asimilando
@@ -47,7 +46,7 @@ funcionamiento del gobierno abierto:
    políticas públicas, de tal modo que el Gobierno puede beneficiarse del
    conocimiento y experiencia de los ciudadanos. Por lo tanto, un gobierno
    participativo crea dispositivos que permitan a los ciudadanos implicarse en
-   la formación de las políticas y en la discusión de los asuntos públicos.
+   la formulación de las políticas y en la discusión de los asuntos públicos.
 
 Estos principios pueden verse reflejados en una serie de políticas o
 estrategias, pero en los diversos países donde se han implementado políticas de
@@ -60,7 +59,7 @@ gobierno abierto, éstas se estructuran en torno a dos ejes centrales:
   incrementando la transparencia del gobierno y la rendición de cuentas por
   parte de sus funcionarios.
 - Apertura de procesos: La creación y utilización de plataformas de
-  participación ciudadana en los procesos de formación y ejecución de políticas
+  participación ciudadana en los procesos de formulación y ejecución de políticas
   públicas es esencial para la construcción del gobierno abierto. Si bien el
   gobierno abierto pasa por utilizar estas plataformas (incluyendo plataformas
   ya existentes, como redes sociales), no basta con utilizarlas para hablar de
@@ -88,8 +87,7 @@ gobierno abierto, éstas se estructuran en torno a dos ejes centrales:
 - Ley de simplificación de trámites administrativos: En el mismo orden de ideas,
   se requerirá la armonización de la Ley de Simplificación de Trámites
   Administrativos, con miras a eliminar los trámites innecesarios y dar
-  prioridad a los procedimientos electrónicos, con base en el principio de la
-  buena fe.
+  prioridad a los procedimientos electrónicos
 - Ley Orgánica de Procedimientos Administrativos: Será indispensable armonizar
   la LOPA para hacerla compatible con la simplificación y digitalización de los
   trámites, así como con las políticas de datos abiertos y de transparencia en
@@ -109,10 +107,14 @@ gobierno abierto, éstas se estructuran en torno a dos ejes centrales:
   Información Pública, portal de gobierno abierto
   http://www.gobiernoabierto.gov.py/
 - España: Ley sobre la reutilización de la información del sector público
-- Madrid, España:
   http://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Gobierno-abierto
 - Argentina: http://www.gobiernoabierto.gob.ar/
 
 ## Autor
 
 Marianne Díaz [@mariannedh](https://twitter.com/mariannedh)
+
+## Edición
+
+Eduard Lucena (@x3m) (https://twitter.com/x3m)
+
